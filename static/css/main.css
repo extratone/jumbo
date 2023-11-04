@@ -10,25 +10,25 @@
 	--button-text: #ffffff;
 	--blockquote: #fffee0;
 	--field: #fffee0;
-	--note: #FEF770;
-	--mark: #FFFF99;
+	--note: #f7ff85;
+	--mark: #f43f32;
 }
 
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
 	:root {
 		--text: #f8f8f2;
-		--link: #8be9fd;
-		--link_visited: #8be9fd;
+		--link: #58d6b3;
+		--link_visited: #608469;
 		--accent1: #f8f8f2;
 		--accent2: #f8f8f2;
 		--background: #282a36;
 		--code: #44475a;
 		--button-text: #282a36;
-		--blockquote: #44475a;
+		--blockquote: #2b3440;
 		--field: #44475a;
 		--note: #44475a;
-		--mark: #FFFF99;
+		--mark: #f7ff85;
 	}
 }
 
